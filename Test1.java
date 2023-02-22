@@ -5,4 +5,4 @@ public class Test1 {
 		int b = 22;
 		System.out.println("Result is "+" " +(a+b));
 	 }	
-}
+   }
