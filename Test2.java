@@ -7,6 +7,5 @@ public class Test2 {
 	String v = "pila";
 	
 	System.out.println(s+" "+t+" "+u+" "+v);
-	
  }
 }
